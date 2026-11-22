@@ -1,17 +1,23 @@
 <div align="center">
 
-<!-- Hero Cyber-Luxe Waving Banner in Electric Light Blue & Obsidian -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,35:0B1E33,70:0EA5E9,100:38BDF8&height=220&section=header&text=BILDAD%20MWANGI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20AGENTIC%20SYSTEMS%20%E2%80%A2%20FULL-STACK%20ARCHITECT&descSize=15&descAlignY=62&descColor=38BDF8" width="100%" alt="Bildad Mwangi - AI/ML Systems Engineer & Full-Stack Architect Header" />
+<!-- Hero Cyber-Luxe Waving Banner in Electric Light Blue, Metallic Gold & Obsidian -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,30:0A192F,65:0284C7,85:38BDF8,100:D4AF37&height=220&section=header&text=BILDAD%20MWANGI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20AGENTIC%20SYSTEMS%20%E2%80%A2%20FULL-STACK%20ARCHITECT&descSize=15&descAlignY=62&descColor=D4AF37" width="100%" alt="Bildad Mwangi - AI/ML Systems Engineer & Full-Stack Architect Header" />
 
-<!-- Dynamic Typewriter Animation with Light Blue & Gold Accents -->
+<!-- Dynamic Typewriter Animation: Primary Track (Electric Cyan in Space Grotesk) -->
 <a href="https://github.com/JB7-creator">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Bildad+Mwangi+%E2%80%94+AI%2FML+Engineer+%26+Full-Stack+Architect;BSc+Computer+Science+%40+Kenyatta+University+(KU);Founder+%26+Creator+of+MNUC+Market+(mnucmarketplace.me);Open+for+Opportunities+%C2%B7+AI%2FML+Engineering+%26+Research;Autonomous+Agents+%C2%B7+Grounded+RAG+%C2%B7+Execution+Pipelines;Statistical+ML+Modeling+%C2%B7+Poisson+xG+%C2%B7+XGBoost;Full-Stack+Architect+%C2%B7+React+19+%C2%B7+Next.js+%C2%B7+FastAPI;Decentralized+Consensus+%C2%B7+Solidity+Web3+Smart+Contracts" alt="Typewriter Specialization Matrix" />
+</a>
+
+<!-- Dynamic Typewriter Animation: Secondary Architecture Subtrack (Metallic Gold in JetBrains Mono) -->
+<a href="https://github.com/JB7-creator">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1200&color=D4AF37&center=true&vCenter=true&width=750&lines=PIONEERING+AUTONOMOUS+AGENTIC+SYSTEMS+%26+STATISTICAL+ML;SCALABLE+DISTRIBUTED+SYSTEMS+%E2%80%A2+HIGH-THROUGHPUT+PRODUCTION+MVPS" alt="Technical Ethos Subtitle" />
 </a>
 
 <p align="center">
   <a href="https://bildadmwangi.tech"><img src="https://img.shields.io/badge/Portfolio-bildadmwangi.tech-0284C7?style=for-the-badge&logo=safari&logoColor=white" alt="Live Portfolio Website" /></a>
   <a href="https://mnucmarketplace.me"><img src="https://img.shields.io/badge/Production-mnucmarketplace.me-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Campus E-Commerce Marketplace" /></a>
-  <img src="https://img.shields.io/badge/BSc_Computer_Science-Kenyatta_University-1E293B?style=for-the-badge&logo=googlescholar&logoColor=38BDF8" alt="Kenyatta University Computer Science" />
+  <img src="https://img.shields.io/badge/Open_for_Opportunities-AI%2FML_%26_Full--Stack-D4AF37?style=for-the-badge&logoColor=050505&labelColor=D4AF37" alt="Open for Opportunities" />
+  <img src="https://img.shields.io/badge/BSc_Computer_Science-Kenyatta_University-0A192F?style=for-the-badge&logo=googlescholar&logoColor=38BDF8" alt="Kenyatta University Computer Science" />
   <a href="mailto:billyelcie7@gmail.com"><img src="https://img.shields.io/badge/Contact-billyelcie7@gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=050505" alt="Direct Email Contact" /></a>
 </p>
 
@@ -24,7 +30,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050914,25:38BDF8,50:D4AF37,75:38BDF8,100:050914&height=2&section=header" width="100%" alt="Tri-Color Hairline Divider" />
+</p>
 
 ### EXECUTIVE OVERVIEW
 
@@ -40,7 +48,9 @@ I am a Computer Science student at **Kenyatta University (KU)**, an **AI/ML syst
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050914,25:38BDF8,50:D4AF37,75:38BDF8,100:050914&height=2&section=header" width="100%" alt="Tri-Color Hairline Divider" />
+</p>
 
 ### OPPORTUNITIES & COLLABORATION
 
@@ -51,7 +61,9 @@ I am actively **ready and open** for:
 
 > *Have a project, role, or vision to build? Reach out directly via **[billyelcie7@gmail.com](mailto:billyelcie7@gmail.com)** or explore my custom domain portfolio at **[bildadmwangi.tech](https://bildadmwangi.tech)**.*
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050914,25:38BDF8,50:D4AF37,75:38BDF8,100:050914&height=2&section=header" width="100%" alt="Tri-Color Hairline Divider" />
+</p>
 
 ### SYSTEM ARCHITECTURE: GROUNDED MULTI-AGENT RAG & ML PIPELINE
 
@@ -65,7 +77,9 @@ flowchart LR
     Agent --> Statistical["ML Engine<br/><b>Poisson + XGBoost</b>"]
 ```
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050914,25:38BDF8,50:D4AF37,75:38BDF8,100:050914&height=2&section=header" width="100%" alt="Tri-Color Hairline Divider" />
+</p>
 
 ### PRODUCTION FLAGSHIPS & CASE STUDIES
 
@@ -77,7 +91,9 @@ flowchart LR
 | **Rukwaro Autospares** | `React 19` `TypeScript` `Supabase` `Vite` `Tailwind` | **Production automotive parts storefront.** High-throughput digital catalog with client-side faceted filtering over hundreds of SKUs and Supabase row-level security. | [Repository](https://github.com/JB7-creator/Rukwaroautospares) |
 | **Autonomous RAG Agent** *(R&D)* | `Python` `LangChain` `FastAPI` `pgvector` `PostgreSQL` | **Grounded document synthesis engine.** Multi-document hybrid search combining dense vector embeddings with BM25 lexical keyword search and citation grounding. | *Private R&D* |
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050914,25:38BDF8,50:D4AF37,75:38BDF8,100:050914&height=2&section=header" width="100%" alt="Tri-Color Hairline Divider" />
+</p>
 
 ### CORE COMPETENCIES MATRIX
 
@@ -96,7 +112,7 @@ flowchart LR
       <h4>Backend, Systems & Data</h4>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" alt="pgvector" />
+      <img src="https://img.shields.io/badge/pgvector-D4AF37?style=flat-square&logoColor=050505" alt="pgvector" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -113,7 +129,7 @@ flowchart LR
     </td>
     <td width="50%" valign="top">
       <h4>Web3 & Distributed Tools</h4>
-      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+      <img src="https://img.shields.io/badge/Solidity-D4AF37?style=flat-square&logo=solidity&logoColor=050505" alt="Solidity" />
       <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat" />
       <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square" alt="Ethers.js" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
@@ -122,21 +138,23 @@ flowchart LR
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050914,25:38BDF8,50:D4AF37,75:38BDF8,100:050914&height=2&section=header" width="100%" alt="Tri-Color Hairline Divider" />
+</p>
 
 ### LIVE ACTIVITY & METRICS TELEMETRY
 
 <div align="center">
 
-<!-- Live Dynamic Contribution Activity Wave Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JB7-creator&theme=tokyo-night&bg_color=050914&color=38BDF8&line=38BDF8&point=D4AF37&area=true&hide_border=true" width="100%" alt="Bildad Mwangi - 30-Day Commit Cadence and Activity Graph" />
+<!-- Live Dynamic Contribution Activity Wave Graph (Electric Blue Line with Metallic Gold Data Points) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JB7-creator&theme=tokyo-night&bg_color=050914&color=D4AF37&line=38BDF8&point=D4AF37&area=true&area_color=0A192F&hide_border=true" width="100%" alt="Bildad Mwangi - 30-Day Commit Cadence and Activity Graph" />
 
 <br/><br/>
 
 <table border="0">
   <tr>
     <td>
-      <img height="175" src="https://github-readme-stats.vercel.app/api?username=JB7-creator&show_icons=true&hide_border=true&bg_color=050914&title_color=38BDF8&icon_color=38BDF8&text_color=E0E0E0" alt="Bildad Mwangi - Lifetime GitHub Stats & Metrics" />
+      <img height="175" src="https://github-readme-stats.vercel.app/api?username=JB7-creator&show_icons=true&hide_border=true&bg_color=050914&title_color=38BDF8&icon_color=D4AF37&text_color=E0E0E0" alt="Bildad Mwangi - Lifetime GitHub Stats & Metrics" />
     </td>
     <td>
       <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JB7-creator&layout=compact&hide_border=true&bg_color=050914&title_color=38BDF8&text_color=E0E0E0" alt="Bildad Mwangi - Core Programming Language Breakdown" />
@@ -144,12 +162,14 @@ flowchart LR
   </tr>
 </table>
 
-<!-- Live Dynamic Streak Stats Counter -->
-<img src="https://streak-stats.demolab.com?user=JB7-creator&background=050914&border=38BDF8&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=FFFFFF&sideLabels=E0E0E0&sideNums=FFFFFF" alt="Bildad Mwangi - Daily GitHub Contribution Streak Analytics" />
+<!-- Live Dynamic Streak Stats Counter in Tri-Color (Gold Border & Flame, Electric Blue Streak Ring) -->
+<img src="https://streak-stats.demolab.com?user=JB7-creator&background=050914&border=D4AF37&stroke=38BDF8&ring=D4AF37&fire=D4AF37&currStreakLabel=38BDF8&currStreakNum=FFFFFF&sideLabels=D4AF37&sideNums=FFFFFF" alt="Bildad Mwangi - Daily GitHub Contribution Streak Analytics" />
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050914,25:38BDF8,50:D4AF37,75:38BDF8,100:050914&height=2&section=header" width="100%" alt="Tri-Color Hairline Divider" />
+</p>
 
 <details>
   <summary><b>INDEXABLE ARCHITECTURE COMPETENCIES & SPECIALIZATION TAXONOMY</b></summary>
@@ -168,7 +188,7 @@ flowchart LR
 
 <div align="center">
 
-<!-- Footer Waving Ribbon in Electric Blue and Obsidian -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,40:0EA5E9,80:0B1E33,100:050914&height=100&section=footer" width="100%" alt="Footer Ribbon" />
+<!-- Footer Waving Ribbon in Metallic Gold, Electric Blue and Obsidian -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,25:38BDF8,65:0A192F,100:050914&height=100&section=footer" width="100%" alt="Footer Ribbon" />
 
 </div>
