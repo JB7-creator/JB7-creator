@@ -3,16 +3,16 @@
 <!-- Hero Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:14120B,80:997A15,100:D4AF37&height=220&section=header&text=BILDAD%20MWANGI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20AGENTIC%20SYSTEMS%20%E2%80%A2%20FULL-STACK%20ARCHITECT&descSize=16&descAlignY=62&descColor=E5C158" width="100%" alt="Bildad Mwangi Banner" />
 
-<!-- Dynamic Typewriter Animation (Writing Name & Titles) -->
+<!-- Dynamic Typewriter Animation (Writing Name, Education & Roles) -->
 <a href="https://github.com/JB7-creator">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&lines=Bildad+Mwangi+%E2%80%94+AI%2FML+Engineer+%26+Systems+Architect;Autonomous+Agents+%C2%B7+Grounded+RAG+%C2%B7+Execution+Pipelines;Statistical+ML+Modeling+%C2%B7+Poisson+xG+%C2%B7+XGBoost;Full-Stack+Architect+%C2%B7+React+19+%C2%B7+Next.js+%C2%B7+FastAPI;Decentralized+Consensus+%C2%B7+Solidity+Web3+Smart+Contracts" alt="Typewriter Subhead" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&lines=Bildad+Mwangi+%E2%80%94+AI%2FML+Engineer+%26+Full-Stack+Architect;BSc+Computer+Science+%40+Kenyatta+University+(KU);Open+for+Opportunities+%C2%B7+AI%2FML+Engineering+%26+Research;Autonomous+Agents+%C2%B7+Grounded+RAG+%C2%B7+Execution+Pipelines;Statistical+ML+Modeling+%C2%B7+Poisson+xG+%C2%B7+XGBoost;Full-Stack+Architect+%C2%B7+React+19+%C2%B7+Next.js+%C2%B7+FastAPI;Decentralized+Consensus+%C2%B7+Solidity+Web3+Smart+Contracts" alt="Typewriter Subhead" />
 </a>
 
 <p align="center">
-  <a href="https://JB7-creator.github.io"><img src="https://img.shields.io/badge/Portfolio-Live_Site-D4AF37?style=for-the-badge&logo=safari&logoColor=050505" alt="Portfolio" /></a>
-  <a href="https://github.com/JB7-creator"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" /></a>
-  <a href="mailto:billyelcie7@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-D4AF37?style=for-the-badge&logo=gmail&logoColor=050505" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Location-Nairobi,_Kenya-14120B?style=for-the-badge&logo=googlemaps&logoColor=D4AF37" alt="Location" />
+  <img src="https://img.shields.io/badge/Open_for_Opportunities-AI%2FML_%26_Full--Stack-D4AF37?style=for-the-badge&logoColor=050505&labelColor=D4AF37" alt="Open for Opportunities" />
+  <img src="https://img.shields.io/badge/BSc_Computer_Science-Kenyatta_University-14120B?style=for-the-badge&logo=googlescholar&logoColor=D4AF37&labelColor=050505" alt="Kenyatta University" />
+  <a href="https://JB7-creator.github.io"><img src="https://img.shields.io/badge/Portfolio-Live_Site-14120B?style=for-the-badge&logo=safari&logoColor=D4AF37&labelColor=050505" alt="Portfolio" /></a>
+  <a href="mailto:billyelcie7@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-14120B?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=050505" alt="Email" /></a>
 </p>
 
 <!-- Core Technology Icons Strip -->
@@ -28,7 +28,7 @@
 
 ### ⚡ Executive Overview
 
-I engineer at the intersection of **statistical machine learning**, **autonomous agentic systems**, and **high-throughput full-stack architectures**. My focus is building robust software that connects complex models and mathematical algorithms to real-world data, tools, and users.
+I am a Computer Science student at **Kenyatta University (KU)**, an **AI/ML systems engineer**, and a **full-stack architect**. My work focuses on bridging probabilistic machine learning models, autonomous agentic loops, and high-throughput production web systems to solve critical real-world problems.
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -39,6 +39,17 @@ I engineer at the intersection of **statistical machine learning**, **autonomous
 │  Full-Stack React 19 Solidity Web3 Contracts PostgreSQL / pgvector    │
 └────────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+### 💼 Opportunities & Collaboration
+
+I am actively **ready and open** for:
+* **AI/ML Engineering Roles & Internships** (Agentic pipelines, RAG systems, model evaluation, fine-tuning)
+* **Full-Stack & Systems Engineering** (React 19 / Next.js, FastAPI, PostgreSQL/pgvector, async microservices)
+* **Applied AI Research & Innovative Startup MVPs** (Transforming research prototypes into scalable products)
+
+> *Have a role, project, or vision to build? Reach out directly via **[billyelcie7@gmail.com](mailto:billyelcie7@gmail.com)** or explore my live projects on **[Portfolio](https://JB7-creator.github.io)**.*
 
 ---
 
