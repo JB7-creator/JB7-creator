@@ -1,108 +1,113 @@
-   # Bildad Mwangi
-    **AI/ML Systems Engineer & Full-Stack Architect**
-    *Engineering autonomous agentic loops, statistical machine learning pipelines, and resilient full-stack distributed systems.*
+    <p align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+        srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:18150D,100:0A0A0A&height=180&section=header&text=BILDAD%20MWANGI&fontSize=38&fontColor=E5C158&fontAlignY=42&
+        desc=AI%2FML%20SYSTEMS%20ENGINEER%20%7C%20FULL-STACK%20ARCHITECT&descSize=12&descAlignY=64&stroke=D4AF37&strokeWidth=1" />
+        <source media="(prefers-color-scheme: light)"
+        srcset="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:FAF6EB,100:FFFFFF&height=180&section=header&text=BILDAD%20MWANGI&fontSize=38&fontColor=997A15&fontAlignY=42&
+        desc=AI%2FML%20SYSTEMS%20ENGINEER%20%7C%20FULL-STACK%20ARCHITECT&descSize=12&descAlignY=64&stroke=C5A059&strokeWidth=1" />
+        <img alt="Bildad Mwangi"
+        src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:18150D,100:0A0A0A&height=180&section=header&text=BILDAD%20MWANGI&fontSize=38&fontColor=E5C158&fontAlignY=42&des
+        c=AI%2FML%20SYSTEMS%20ENGINEER%20%7C%20FULL-STACK%20ARCHITECT&descSize=12&descAlignY=64" width="100%" />
+      </picture>
+    </p>
 
-    [GitHub](https://github.com/JB7-creator) • [Portfolio](https://JB7-creator.github.io) • [Email](mailto:billyelcie7@gmail.com) • Nairobi, Kenya
+    <p align="center">
+      <a href="https://github.com/JB7-creator"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=D4AF37" /></a>
+      <a href="https://JB7-creator.github.io"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=safari&logoColor=D4AF37" /></a>
+      <a href="mailto:billyelcie7@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=D4AF37" /></a>
+    </p>
 
-    ```yaml
-    specialization: ["Autonomous Agent Architectures", "Grounded RAG Pipelines", "Statistical ML Modeling", "Full-Stack MVPs"]
-    primary_stack: ["Python", "PyTorch", "XGBoost", "LangChain", "FastAPI", "TypeScript", "React 19", "Next.js", "Solidity"]
-    engineering_ethos: "Zero bloat. High signal-to-noise. Provable mathematics & deterministic systems."
-    focus_area: "Building scalable AI solutions addressing real-world operational and societal challenges."
-  ──────
-  🏗 Production Architecture: Grounded Multi-Agent RAG & Inference  Pipeline
+    <p align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:D4AF37,100:0A0A0A&height=2&section=header" width="100%" />
+    </p>
 
-  Native system design illustrating how I bridge raw model serving and vector retrieval with high-reliability client interfaces.
+    ### EXECUTIVE OVERVIEW
+    Architecting deterministic machine learning systems, autonomous agentic loops, and resilient full-stack applications solving operational and governance challenges.
 
-  │ Diagram exceeds terminal width (255 > 190 cols)
-  │ Displayed as code block. Widen terminal to view inline.
 
-    flowchart LR
-        subgraph ClientLayer ["Client & Interface Tier"]
-            UI["React 19 / Next.js Client (Streaming SSE)"]
-            WS["Async Event Listener"]
-        end
+  • Core Focus        : Statistical ML, Grounded RAG Architectures & Autonomous Agents
+  • Production SLA    : Low-Latency Inference, Vector Retrieval & Relational Schemas
+  • Engineering Ethos : High Signal-to-Noise. Provable Mathematics. Zero Bloat.
 
-        subgraph GatewayTier ["Ingress & Routing Tier"]
-            API["FastAPI Gateway (Rate Limiting, JWT Auth)"]
-            TaskQueue[("Redis Priority Queue & Task State")]
-        end
 
-        subgraph AgentCore ["Autonomous Agent & RAG Core"]
-            Agent["LangChain / Python Tool Orchestrator"]
-            HybridSearch["Hybrid Retrieval (Dense + BM25)"]
-            VectorStore[("PostgreSQL + pgvector / Vector DB")]
-        end
+    <p align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:D4AF37,100:0A0A0A&height=2&section=header" width="100%" />
+    </p>
 
-        subgraph ModelRuntime ["Model & Statistical Inference Engine"]
-            LLM["Claude Sonnet / Gemini Inference"]
-            MLModel["Statistical Poisson & XGBoost Regressors"]
-        end
+    ### FLAGSHIP CASE STUDIES
 
-        UI -->|HTTP/2 Stream| API
-        WS <-->|Task State Sync| API
-        API --> TaskQueue
-        TaskQueue --> Agent
-        Agent --> HybridSearch
-        HybridSearch <--> VectorStore
-        Agent --> LLM
-        Agent --> MLModel
-  ──────
-  🔬 Machine Learning Systems & Quantitative Case Studies
+    | System | Domain & Architecture | Engineering Highlight | Core Stack |
+    | :--- | :--- | :--- | :--- |
+    | **[BetEdge Pro](https://github.com/JB7-creator/betting-bot)** | AI sports value engine & ML classifier | Bivariate Poisson modeling + secondary XGBoost classifier for EV optimization |
+    `Python` `XGBoost` `Scikit-Learn` `Streamlit` |
+    | **[DeVote](https://github.com/JB7-creator/blockchain-voting-system)** | Cryptographic decentralized voting system | Tamper-proof smart contracts eliminating electoral fraud via
+    on-chain consensus | `Solidity 0.8` `Hardhat` `React 18` `Tailwind` |
+    | **[Rukwaro Autospares](https://github.com/JB7-creator/Rukwaroautospares)** | Production automotive storefront & catalog | Instant client-side faceted filtering over hundreds of SKUs
+    with RLS backend | `React 19` `TypeScript` `Supabase` `Vite` |
+    | **Autonomous RAG Agent** *(R&D)* | Grounded retrieval & tool orchestrator | Multi-document hybrid search (dense pgvector + BM25) with cited synthesis | `Python` `LangChain` `FastAPI`
+    `pgvector` |
 
-  1. BetEdge Pro — Statistical Sports Value Engine & ML Classifier
+    <p align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:D4AF37,100:0A0A0A&height=2&section=header" width="100%" />
+    </p>
 
-  An AI-driven predictive modeling system combining probabilistic distribution functions with ensemble machine learning.
+    ### TECHNICAL SPECIFICATION
 
-  • Mathematical Core: Implements bivariate Poisson probability density modeling to derive true goal distributions against implied bookmaker probabilities, isolating market alpha.
-  • Inference Pipeline: Secondary XGBoost classifier trained on historical match metrics to prune negative EV predictions.
-  • Stack: Python 3.10+, Scikit-Learn, XGBoost, NumPy, Streamlit.
-  • Repository: JB7-creator/betting-bot https://github.com/JB7-creator/betting-bot
 
-   Architecture Component             │ Statistical Methodology            │ Pipeline Latency                  │ Validation Metric                 │ Target Objective
-  ────────────────────────────────────┼────────────────────────────────────┼───────────────────────────────────┼───────────────────────────────────┼────────────────────────────────────────
-   Poisson Density Estimator          │ Bivariate Poisson distribution     │ < 8ms / match                     │ Log-loss minimization             │ Expected goal (xG) distribution
-   Ensemble Classifier                │ Gradient-boosted trees (XGBoost)   │ < 15ms / inference                │ AUC-ROC: 0.74                     │ Positive expected value identification
-   Interactive Dashboard              │ In-memory vectorized analytics     │ < 50ms reactive update            │ Zero memory leaks                 │ Real-time parameter recalibration
-  ──────
-  2. DeVote — Tamper-Proof Decentralized Voting Platform
+  AI / ML & INFERENCE     : Python 3.11+, PyTorch, Scikit-Learn, XGBoost, LangChain, RAG
+  BACKEND & DATA          : FastAPI, PostgreSQL, Supabase, pgvector, Redis, REST APIs
+  FRONTEND ARCHITECTURE   : TypeScript, React 19, Next.js (App Router), Vite, Tailwind CSS
+  DISTRIBUTED & DEVOPS    : Solidity, Hardhat, Ethers.js, Docker, Linux (Bash), Git
 
-  A cryptographic election platform eliminating centralized fraud through immutable blockchain execution.
 
-  • Systems Architecture: Smart contracts audited for reentrancy and integer overflow; decouples voting identity verification from on-chain voter anonymization.
-  • Consensus & State: State transitions verified via EVM execution; reactive web interface provides cryptographic receipt verification.
-  • Stack: Solidity 0.8.20, Hardhat, Ethers.js, React 18, Tailwind CSS.
-  • Repository: JB7-creator/blockchain-voting-system https://github.com/JB7-creator/blockchain-voting-system
-  ──────
-  3. Autonomous RAG Agent — Grounded Retrieval & Tool Orchestrator (Active R&D)
+    <p align="center">
+      <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=D4AF37" />
+      <img src="https://img.shields.io/badge/PyTorch-0A0A0A?style=flat-square&logo=pytorch&logoColor=E5C158" />
+      <img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=D4AF37" />
+      <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square&logo=langchain&logoColor=E5C158" />
+      <img src="https://img.shields.io/badge/React_19-0A0A0A?style=flat-square&logo=react&logoColor=D4AF37" />
+      <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=D4AF37" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/Solidity-0A0A0A?style=flat-square&logo=solidity&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=C5A059" />
+    </p>
 
-  A multi-modal document intelligence platform built on deterministic agentic loops.
+    <p align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:D4AF37,100:0A0A0A&height=2&section=header" width="100%" />
+    </p>
 
-  • Retrieval Architecture: Hybrid dense embedding retrieval (pgvector) combined with lexical keyword matching, routed through a re-ranking cross-encoder.
-  • Hallucination Mitigation: Grounded citation verification where claims are strictly conditioned on retrieved source spans.
-  • Stack: Python 3.11, LangChain, FastAPI, pgvector, PostgreSQL, Docker.
-  ──────
-  🚀 Full-Stack Production Products in the Real World
+    ### ACTIVITY & METRICS
 
-  Rukwaro Autospares — Enterprise Automotive Inventory Platform
+    <p align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api?username=JB7-creator&show_icons=true&bg_color=0A0A0A&title_color=D4AF37&text_color=FFFFFF&icon_color=E5C158&border_color=262626&bor
+        der_radius=4" />
+        <source media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api?username=JB7-creator&show_icons=true&bg_color=FFFFFF&title_color=997A15&text_color=1F2328&icon_color=C5A059&border_color=E1E4E8&bor
+        der_radius=4" />
+        <img alt="Bildad Mwangi Stats"
+        src="https://github-readme-stats.vercel.app/api?username=JB7-creator&show_icons=true&bg_color=0A0A0A&title_color=D4AF37&text_color=FFFFFF&icon_color=E5C158&border_color=262626&border
+        _radius=4" />
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=JB7-creator&background=0A0A0A&border=262626&stroke=D4AF37&ring=D4AF37&fire=E5C158&currStreakNum=FFFFFF&currStreakLabel=
+        D4AF37&sideNums=FFFFFF&sideLabels=C5A059&dates=737373&border_radius=4" />
+        <source media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=JB7-creator&background=FFFFFF&border=E1E4E8&stroke=997A15&ring=997A15&fire=C5A059&currStreakNum=1F2328&currStreakLabel=
+        997A15&sideNums=1F2328&sideLabels=57606A&dates=737373&border_radius=4" />
+        <img alt="Bildad Mwangi Streak"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=JB7-creator&background=0A0A0A&border=262626&stroke=D4AF37&ring=D4AF37&fire=E5C158&currStreakNum=FFFFFF&currStreakLabel=D4A
+        F37&sideNums=FFFFFF&sideLabels=C5A059&dates=737373&border_radius=4" />
+      </picture>
+    </p>
 
-  Modern high-throughput commercial storefront and parts catalog platform.
+    <p align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:D4AF37,100:0A0A0A&height=2&section=header" width="100%" />
+    </p>
 
-  • Frontend Architecture: Built with React 19, TypeScript, Vite, and Tailwind CSS. Implements instantaneous client-side faceted filtering over hundreds of SKUs.
-  • Backend & Relational Schema: Supabase PostgreSQL backend with row-level security (RLS) policies and asset delivery pipelines.
-  • Repository: JB7-creator/Rukwaroautospares https://github.com/JB7-creator/Rukwaroautospares
-  ──────
-  🛠 Systems & Technical Competency Matrix
-
-     AI / ML & INFERENCE     : PyTorch, Scikit-Learn, XGBoost, LangChain, RAG, Prompt Engineering
-     BACKEND & AGENTS        : Python (FastAPI, Asyncio), Node.js, REST APIs, WebSockets, Task Queues
-     DATA & VECTOR STORAGE   : PostgreSQL, Supabase, pgvector, Redis, Vector Embeddings
-     DISTRIBUTED & WEB3      : Solidity, Hardhat, Ethers.js, Smart Contract Security, Docker
-     FRONTEND ARCHITECTURE   : TypeScript, React 19, Next.js (App Router), Vite, Tailwind CSS
-     ENVIRONMENTS & TOOLING  : Linux (Bash), Git/GitHub CI/CD, Postman, Supabase CLI
-  ──────
-  📌 Engineering Objectives
-
-  [ ] Benchmarking custom hybrid search rerankers for low-latency agent tool calling.
-  [ ] Deploying self-hosted open-weights inference nodes with p99 response times < 200ms.
-  [ ] Expanding decentralized governance and statistical transparency tools for emerging markets.
+    <p align="center">
+      <sub>ARCHITECTED WITH DETERMINISTIC PRECISION • NAIROBI, KENYA</sub>
+    </p>
