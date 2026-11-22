@@ -1,30 +1,108 @@
-    <div align="center">
+   # Bildad Mwangi
+    **AI/ML Systems Engineer & Full-Stack Architect**
+    *Engineering autonomous agentic loops, statistical machine learning pipelines, and resilient full-stack distributed systems.*
 
-    <!-- Hero Animated Header Banner -->
-    <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,40:0d1b2a,80:10b981,100:00f5a0&height=220&section=header&text=Bildad%20Mwangi&fontSize=54&fontColor=ffffff&fontAli
-    gnY=40&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Full-Stack%20Researcher&descAlignY=62&descSize=18" width="100%" alt="Bildad Mwangi Banner" />
+    [GitHub](https://github.com/JB7-creator) • [Portfolio](https://JB7-creator.github.io) • [Email](mailto:billyelcie7@gmail.com) • Nairobi, Kenya
 
-    <!-- Dynamic Terminal Typing Subtitle -->
-    <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=720&lines=Building+Production-Ready+AI+
-    Agents+%26+RAG+Systems;Machine+Learning+Pipelines+%7C+XGBoost+%7C+PyTorch+%7C+LangChain;Full-Stack+Architect+%7C+Next.js+%7C+React+%7C+FastAPI+%7C+Supabase;Engineering+Intelligent+Solu
-    tions+for+Global-Scale+Problems" alt="Typing Subtitle" />
+    ```yaml
+    specialization: ["Autonomous Agent Architectures", "Grounded RAG Pipelines", "Statistical ML Modeling", "Full-Stack MVPs"]
+    primary_stack: ["Python", "PyTorch", "XGBoost", "LangChain", "FastAPI", "TypeScript", "React 19", "Next.js", "Solidity"]
+    engineering_ethos: "Zero bloat. High signal-to-noise. Provable mathematics & deterministic systems."
+    focus_area: "Building scalable AI solutions addressing real-world operational and societal challenges."
+  ──────
+  🏗 Production Architecture: Grounded Multi-Agent RAG & Inference  Pipeline
 
-    <br/>
+  Native system design illustrating how I bridge raw model serving and vector retrieval with high-reliability client interfaces.
 
-    <!-- Status & Focus Badges -->
-    [![Focus](https://img.shields.io/badge/Focus-AI%2FML%20%26%20Agentic%20Systems-00F5A0?style=for-the-badge&logo=openai&logoColor=000000)](https://github.com/JB7-creator)
-    [![Open To](https://img.shields.io/badge/Open%20To-AI%20Research%20%26%20Engineering-38bdf8?style=for-the-badge&logo=google&logoColor=white)](https://github.com/JB7-creator)
-    [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://JB7-creator.github.io)
+  │ Diagram exceeds terminal width (255 > 190 cols)
+  │ Displayed as code block. Widen terminal to view inline.
 
-    <br/><br/>
+    flowchart LR
+        subgraph ClientLayer ["Client & Interface Tier"]
+            UI["React 19 / Next.js Client (Streaming SSE)"]
+            WS["Async Event Listener"]
+        end
 
-    <!-- Interactive Tech Stack Grid -->
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn,fastapi,langchain,postgres,docker,ts,react,nextjs,tailwind,solidity,git,linux,bash" alt="Core Technologies" />
-    </a>
+        subgraph GatewayTier ["Ingress & Routing Tier"]
+            API["FastAPI Gateway (Rate Limiting, JWT Auth)"]
+            TaskQueue[("Redis Priority Queue & Task State")]
+        end
 
-    </div>
+        subgraph AgentCore ["Autonomous Agent & RAG Core"]
+            Agent["LangChain / Python Tool Orchestrator"]
+            HybridSearch["Hybrid Retrieval (Dense + BM25)"]
+            VectorStore[("PostgreSQL + pgvector / Vector DB")]
+        end
 
-    ---
+        subgraph ModelRuntime ["Model & Statistical Inference Engine"]
+            LLM["Claude Sonnet / Gemini Inference"]
+            MLModel["Statistical Poisson & XGBoost Regressors"]
+        end
+
+        UI -->|HTTP/2 Stream| API
+        WS <-->|Task State Sync| API
+        API --> TaskQueue
+        TaskQueue --> Agent
+        Agent --> HybridSearch
+        HybridSearch <--> VectorStore
+        Agent --> LLM
+        Agent --> MLModel
+  ──────
+  🔬 Machine Learning Systems & Quantitative Case Studies
+
+  1. BetEdge Pro — Statistical Sports Value Engine & ML Classifier
+
+  An AI-driven predictive modeling system combining probabilistic distribution functions with ensemble machine learning.
+
+  • Mathematical Core: Implements bivariate Poisson probability density modeling to derive true goal distributions against implied bookmaker probabilities, isolating market alpha.
+  • Inference Pipeline: Secondary XGBoost classifier trained on historical match metrics to prune negative EV predictions.
+  • Stack: Python 3.10+, Scikit-Learn, XGBoost, NumPy, Streamlit.
+  • Repository: JB7-creator/betting-bot https://github.com/JB7-creator/betting-bot
+
+   Architecture Component             │ Statistical Methodology            │ Pipeline Latency                  │ Validation Metric                 │ Target Objective
+  ────────────────────────────────────┼────────────────────────────────────┼───────────────────────────────────┼───────────────────────────────────┼────────────────────────────────────────
+   Poisson Density Estimator          │ Bivariate Poisson distribution     │ < 8ms / match                     │ Log-loss minimization             │ Expected goal (xG) distribution
+   Ensemble Classifier                │ Gradient-boosted trees (XGBoost)   │ < 15ms / inference                │ AUC-ROC: 0.74                     │ Positive expected value identification
+   Interactive Dashboard              │ In-memory vectorized analytics     │ < 50ms reactive update            │ Zero memory leaks                 │ Real-time parameter recalibration
+  ──────
+  2. DeVote — Tamper-Proof Decentralized Voting Platform
+
+  A cryptographic election platform eliminating centralized fraud through immutable blockchain execution.
+
+  • Systems Architecture: Smart contracts audited for reentrancy and integer overflow; decouples voting identity verification from on-chain voter anonymization.
+  • Consensus & State: State transitions verified via EVM execution; reactive web interface provides cryptographic receipt verification.
+  • Stack: Solidity 0.8.20, Hardhat, Ethers.js, React 18, Tailwind CSS.
+  • Repository: JB7-creator/blockchain-voting-system https://github.com/JB7-creator/blockchain-voting-system
+  ──────
+  3. Autonomous RAG Agent — Grounded Retrieval & Tool Orchestrator (Active R&D)
+
+  A multi-modal document intelligence platform built on deterministic agentic loops.
+
+  • Retrieval Architecture: Hybrid dense embedding retrieval (pgvector) combined with lexical keyword matching, routed through a re-ranking cross-encoder.
+  • Hallucination Mitigation: Grounded citation verification where claims are strictly conditioned on retrieved source spans.
+  • Stack: Python 3.11, LangChain, FastAPI, pgvector, PostgreSQL, Docker.
+  ──────
+  🚀 Full-Stack Production Products in the Real World
+
+  Rukwaro Autospares — Enterprise Automotive Inventory Platform
+
+  Modern high-throughput commercial storefront and parts catalog platform.
+
+  • Frontend Architecture: Built with React 19, TypeScript, Vite, and Tailwind CSS. Implements instantaneous client-side faceted filtering over hundreds of SKUs.
+  • Backend & Relational Schema: Supabase PostgreSQL backend with row-level security (RLS) policies and asset delivery pipelines.
+  • Repository: JB7-creator/Rukwaroautospares https://github.com/JB7-creator/Rukwaroautospares
+  ──────
+  🛠 Systems & Technical Competency Matrix
+
+     AI / ML & INFERENCE     : PyTorch, Scikit-Learn, XGBoost, LangChain, RAG, Prompt Engineering
+     BACKEND & AGENTS        : Python (FastAPI, Asyncio), Node.js, REST APIs, WebSockets, Task Queues
+     DATA & VECTOR STORAGE   : PostgreSQL, Supabase, pgvector, Redis, Vector Embeddings
+     DISTRIBUTED & WEB3      : Solidity, Hardhat, Ethers.js, Smart Contract Security, Docker
+     FRONTEND ARCHITECTURE   : TypeScript, React 19, Next.js (App Router), Vite, Tailwind CSS
+     ENVIRONMENTS & TOOLING  : Linux (Bash), Git/GitHub CI/CD, Postman, Supabase CLI
+  ──────
+  📌 Engineering Objectives
+
+  [ ] Benchmarking custom hybrid search rerankers for low-latency agent tool calling.
+  [ ] Deploying self-hosted open-weights inference nodes with p99 response times < 200ms.
+  [ ] Expanding decentralized governance and statistical transparency tools for emerging markets.
