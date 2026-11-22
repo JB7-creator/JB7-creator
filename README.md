@@ -1,21 +1,22 @@
 <div align="center">
 
-<!-- Hero Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:14120B,80:997A15,100:D4AF37&height=220&section=header&text=BILDAD%20MWANGI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20AGENTIC%20SYSTEMS%20%E2%80%A2%20FULL-STACK%20ARCHITECT&descSize=16&descAlignY=62&descColor=E5C158" width="100%" alt="Bildad Mwangi Banner" />
+<!-- Hero Header Banner (Electric Cyan & Deep Obsidian) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:0a192f,70:0284c7,100:38bdf8&height=220&section=header&text=BILDAD%20MWANGI&fontSize=52&fontColor=38bdf8&fontAlignY=38&desc=AI%2FML%20SYSTEMS%20ENGINEER%20%E2%80%A2%20AGENTIC%20INFRASTRUCTURE%20%E2%80%A2%20FULL-STACK%20ARCHITECT&descSize=15&descAlignY=62&descColor=E2E8F0" width="100%" alt="Bildad Mwangi Banner" />
 
-<!-- Dynamic Typewriter Animation (Writing Name, Education & Roles) -->
+<!-- Dynamic Typewriter Animation (Electric Cyan) -->
 <a href="https://github.com/JB7-creator">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&lines=Bildad+Mwangi+%E2%80%94+AI%2FML+Engineer+%26+Full-Stack+Architect;BSc+Computer+Science+%40+Kenyatta+University+(KU);Open+for+Opportunities+%C2%B7+AI%2FML+Engineering+%26+Research;Autonomous+Agents+%C2%B7+Grounded+RAG+%C2%B7+Execution+Pipelines;Statistical+ML+Modeling+%C2%B7+Poisson+xG+%C2%B7+XGBoost;Full-Stack+Architect+%C2%B7+React+19+%C2%B7+Next.js+%C2%B7+FastAPI;Decentralized+Consensus+%C2%B7+Solidity+Web3+Smart+Contracts" alt="Typewriter Subhead" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Bildad+Mwangi+%E2%80%94+AI%2FML+Engineer+%26+Systems+Architect;Autonomous+Agents+%C2%B7+Grounded+RAG+%C2%B7+Execution+Pipelines;Statistical+ML+Modeling+%C2%B7+Poisson+xG+%C2%B7+XGBoost;Full-Stack+Architect+%C2%B7+React+19+%C2%B7+Next.js+%C2%B7+FastAPI;Decentralized+Consensus+%C2%B7+Solidity+Web3+Smart+Contracts" alt="Typewriter Subhead" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_for_Opportunities-AI%2FML_%26_Full--Stack-D4AF37?style=for-the-badge&logoColor=050505&labelColor=D4AF37" alt="Open for Opportunities" />
-  <img src="https://img.shields.io/badge/BSc_Computer_Science-Kenyatta_University-14120B?style=for-the-badge&logo=googlescholar&logoColor=D4AF37&labelColor=050505" alt="Kenyatta University" />
-  <a href="https://JB7-creator.github.io"><img src="https://img.shields.io/badge/Portfolio-Live_Site-14120B?style=for-the-badge&logo=safari&logoColor=D4AF37&labelColor=050505" alt="Portfolio" /></a>
-  <a href="mailto:billyelcie7@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-14120B?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=050505" alt="Email" /></a>
+  <a href="https://JB7-creator.github.io"><img src="https://img.shields.io/badge/Portfolio-Live_Site-38bdf8?style=for-the-badge&logo=safari&logoColor=050505" alt="Portfolio" /></a>
+  <a href="https://github.com/JB7-creator"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub" /></a>
+  <a href="mailto:billyelcie7@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-38bdf8?style=for-the-badge&logo=gmail&logoColor=050505" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Nairobi,_Kenya-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=JB7-creator&label=SYSTEM_ACCESS_COUNT&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- Core Technology Icons Strip -->
+<!-- Core Technology Icons Matrix -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn,fastapi,postgres,redis,docker,ts,react,nextjs,tailwind,solidity,linux,git,github,bash" alt="Tech Stack Icons" />
@@ -26,9 +27,9 @@
 
 ---
 
-### ⚡ Executive Overview
+### // EXECUTIVE ARCHITECTURE
 
-I am a Computer Science student at **Kenyatta University (KU)**, an **AI/ML systems engineer**, and a **full-stack architect**. My work focuses on bridging probabilistic machine learning models, autonomous agentic loops, and high-throughput production web systems to solve critical real-world problems.
+I engineer at the intersection of **statistical machine learning**, **autonomous agentic systems**, and **high-throughput full-stack architectures**. My focus is building robust software that connects complex models and mathematical algorithms to real-world data, tools, and users.
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -42,18 +43,7 @@ I am a Computer Science student at **Kenyatta University (KU)**, an **AI/ML syst
 
 ---
 
-### 💼 Opportunities & Collaboration
-
-I am actively **ready and open** for:
-* **AI/ML Engineering Roles & Internships** (Agentic pipelines, RAG systems, model evaluation, fine-tuning)
-* **Full-Stack & Systems Engineering** (React 19 / Next.js, FastAPI, PostgreSQL/pgvector, async microservices)
-* **Applied AI Research & Innovative Startup MVPs** (Transforming research prototypes into scalable products)
-
-> *Have a role, project, or vision to build? Reach out directly via **[billyelcie7@gmail.com](mailto:billyelcie7@gmail.com)** or explore my live projects on **[Portfolio](https://JB7-creator.github.io)**.*
-
----
-
-### 🏛️ System Architecture: Grounded Multi-Agent RAG & ML Pipeline
+### // SYSTEM ARCHITECTURE: GROUNDED MULTI-AGENT RAG & ML PIPELINE
 
 ```mermaid
 flowchart LR
@@ -67,32 +57,33 @@ flowchart LR
 
 ---
 
-### 🚀 Production Flagships & Case Studies
+### // PRODUCTION FLAGSHIPS & CASE STUDIES
 
-| Flagship System | Architecture & Focus | Engineering Highlights | Source Code |
+| System | Domain & Architecture | Engineering Highlight | Source / Demo |
 | :--- | :--- | :--- | :---: |
-| 🎯 **[BetEdge Pro](https://github.com/JB7-creator/betting-bot)** | `Python` `XGBoost` `Scikit-Learn` `Streamlit` | **AI sports predictive modeling system.** Implements bivariate Poisson probability density modeling with an ensemble XGBoost classifier to isolate positive expected value (EV) betting opportunities. | [View Repository](https://github.com/JB7-creator/betting-bot) |
-| 🗳️ **[DeVote](https://github.com/JB7-creator/blockchain-voting-system)** | `Solidity 0.8` `Hardhat` `React 18` `Tailwind` | **Cryptographic decentralized voting platform.** Eliminates centralized election fraud through immutable on-chain smart contracts and cryptographic ballot verification. | [View Repository](https://github.com/JB7-creator/blockchain-voting-system) |
-| ⚙️ **[Rukwaro Autospares](https://github.com/JB7-creator/Rukwaroautospares)** | `React 19` `TypeScript` `Supabase` `Vite` | **Production automotive parts storefront.** High-throughput digital catalog with client-side faceted filtering over hundreds of SKUs and Supabase row-level security. | [View Repository](https://github.com/JB7-creator/Rukwaroautospares) |
-| 🤖 **Autonomous RAG Agent** *(R&D)* | `Python` `LangChain` `FastAPI` `pgvector` | **Grounded document synthesis engine.** Multi-document hybrid search combining dense vector embeddings with BM25 lexical keyword search and citation grounding. | *Private R&D* |
+| **[BetEdge Pro](https://github.com/JB7-creator/betting-bot)** | AI Sports Value Engine & ML Classifier | Bivariate Poisson probability density modeling paired with secondary XGBoost classifier to isolate positive EV opportunities. | [Repository](https://github.com/JB7-creator/betting-bot) |
+| **[MNUC Market](https://github.com/JB7-creator/mnuc-marketplacee)** | Campus E-Commerce & Merchant Ecosystem | High-traffic collegiate marketplace featuring Supabase real-time sync, M-Pesa Daraja STK Push payment infrastructure, and push notifications. | [Repository](https://github.com/JB7-creator/mnuc-marketplacee) |
+| **[DeVote](https://github.com/JB7-creator/blockchain-voting-system)** | Cryptographic Decentralized Voting System | Audited Solidity 0.8 smart contracts on EVM eliminating electoral manipulation through transparent on-chain voter consensus. | [Repository](https://github.com/JB7-creator/blockchain-voting-system) |
+| **[Rukwaro Autospares](https://github.com/JB7-creator/Rukwaroautospares)** | Production Automotive Commercial Platform | High-performance digital catalog with instantaneous client-side faceted filtering over hundreds of SKUs and Supabase RLS security. | [Repository](https://github.com/JB7-creator/Rukwaroautospares) |
+| **Autonomous RAG Agent** | Grounded Retrieval & Tool Orchestrator | Multi-document hybrid search combining dense vector embeddings with BM25 lexical keyword search, hallucination checks, and cited synthesis. | *Active R&D* |
 
 ---
 
-### 🛠️ Core Competencies Matrix
+### // TECHNICAL COMPETENCY MATRIX
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 AI, Machine Learning & Agents</h4>
+      <h4>AI, Machine Learning & Agents</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
       <img src="https://img.shields.io/badge/XGBoost-15803D?style=flat-square&logo=xgboost&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/RAG_Pipelines-D4AF37?style=flat-square" />
+      <img src="https://img.shields.io/badge/RAG_Pipelines-38bdf8?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Backend, Systems & Data</h4>
+      <h4>Backend, Systems & Data</h4>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" />
@@ -103,7 +94,7 @@ flowchart LR
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎨 Frontend & Architecture</h4>
+      <h4>Frontend & User Interfaces</h4>
       <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -111,10 +102,10 @@ flowchart LR
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>⛓️ Web3 & Distributed Tools</h4>
+      <h4>Distributed Systems & Payments</h4>
       <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
       <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" />
-      <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square" />
+      <img src="https://img.shields.io/badge/M--Pesa_Daraja-00A859?style=flat-square&logo=airplayaudio&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
     </td>
@@ -123,29 +114,33 @@ flowchart LR
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### // ACTIVITY & REPOSITORY PERFORMANCE
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JB7-creator&theme=tokyo-night&bg_color=050505&color=38bdf8&line=38bdf8&point=d4af37&area=true&hide_border=true" width="100%" alt="Contribution Vector Graph" />
+</p>
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api?username=JB7-creator&show_icons=true&hide_border=true&bg_color=050505&title_color=D4AF37&icon_color=D4AF37&text_color=E0E0E0" alt="GitHub Stats" />
+        <img height="175" src="https://github-readme-stats.vercel.app/api?username=JB7-creator&show_icons=true&hide_border=true&bg_color=050505&title_color=38bdf8&icon_color=38bdf8&text_color=E0E0E0" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JB7-creator&layout=compact&hide_border=true&bg_color=050505&title_color=D4AF37&text_color=E0E0E0" alt="Top Languages" />
+        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JB7-creator&layout=compact&hide_border=true&bg_color=050505&title_color=38bdf8&text_color=E0E0E0" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JB7-creator&background=050505&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&currStreakNum=FFFFFF&sideLabels=E0E0E0&sideNums=FFFFFF" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JB7-creator&background=050505&border=38bdf8&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&currStreakNum=FFFFFF&sideLabels=E0E0E0&sideNums=FFFFFF" alt="Contribution Streak" />
 </div>
 
 <br/>
 
 <div align="center">
 
-<!-- Footer Waving Ribbon in Gold and Obsidian -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,40:997A15,80:14120B,100:050505&height=100&section=footer" width="100%" alt="Footer Ribbon" />
+<!-- Footer Waving Ribbon in Electric Cyan -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,40:0284c7,75:0a192f,100:050505&height=100&section=footer" width="100%" alt="Footer Ribbon" />
 
 </div>
